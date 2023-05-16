@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 39d49a4b98ebdae41977fee97477f547
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - crystalight_font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a79f044c37ef81349b9e952fbf886c59, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
